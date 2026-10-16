@@ -8,7 +8,7 @@ A modern and responsive **Gym Website** developed as **Task 03** of my Future In
 - Mobile-friendly interface
 - Gym information and services
 - Membership section
-- Contact form
+- Data Easily Accessed through Mobile
 - Modern and user-friendly UI
 - Live deployed website
 
